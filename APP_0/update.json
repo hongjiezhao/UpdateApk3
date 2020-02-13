@@ -1,0 +1,11 @@
+
+{
+    "versionCode":2,
+    "versionName": "v2.0",
+	"updateInf":[
+		"修复BUG",
+		"优化功能",
+		"增加新的功能"
+	],
+    "apkUrl": "https://gitee.com/snowolf21/AppUpdate/raw/master/APP_0/app-debug.apk" 
+}
